@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.searchbar-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 20px;
+}
